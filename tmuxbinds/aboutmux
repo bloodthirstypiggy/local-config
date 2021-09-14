@@ -1,0 +1,9 @@
+do not forgert to rename files if u copy it straight to the ~/.tmux/... to the .tmux.conf and .tmux.conf.local (+ visit https://github.com/gpakosz/.tmux)
+some binds:
+1.ctrl + A - prefix
+2. prefix + m - activate mouse 
+3.prefix + 1/2/3/... - go to the window
+Some commands:
+1. tmux new-session -s /put some text/
+2. tmux detouch - quit from the current session
+3. tmux attach /name of the session/ - come in session
