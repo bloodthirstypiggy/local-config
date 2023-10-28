@@ -1,0 +1,21 @@
+font_family      Operator Mono Book
+bold_font        Operator Mono Medium
+italic_font      Operator Mono Book Italic
+bold_italic_font Operator Mono Medium Italic
+font_size 18
+shell zsh
+hide_window_decorations no
+window_logo_path none
+enable_audio_bell no
+cursor_shape beam
+
+
+
+term xterm-256color
+background_opacity 1
+
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Latte
+include current-theme.conf
+# END_KITTY_THEME
